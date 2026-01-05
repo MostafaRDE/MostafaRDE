@@ -55,6 +55,6 @@ Most repos exist to **learn by building**, not to farm stars.
 
 - 🌐 https://mostafaeffati.com
 - 🎓 https://academy.mostafaeffati.com
-- 💼 [https://www.linkedin.com/in/mostafaeffati/](LinkedIn: Mostafa Effati)
+- 💼 LinkedIn: [https://www.linkedin.com/in/mostafaeffati/](Mostafa Effati)
 
 If something here looks interesting, open an issue or read the code.
