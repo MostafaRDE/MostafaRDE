@@ -54,7 +54,7 @@ Most repos exist to **learn by building**, not to farm stars.
 ## Outside of GitHub
 
 - 🌐 https://mostafaeffati.com
-- 🎓 https://academy.mostafaeffati.com
 - 💼 LinkedIn: [Mostafa Effati](https://www.linkedin.com/in/mostafaeffati/)
+- 🎓 Academy: https://academy.mostafaeffati.com
 
 If something here looks interesting, open an issue or read the code.
