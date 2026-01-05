@@ -1,16 +1,59 @@
-## Hi there 👋
+# Mostafa Effati
 
-<!--
-**MostafaRDE/MostafaRDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & Platform Engineer  
+I build systems that survive real-world constraints.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- Backend architecture for **multi-tenant platforms**
+- **Distributed systems** (CQRS, event-driven designs)
+- **Developer tooling** (code generators, internal platforms)
+- Infrastructure-level backend modules:
+  - authentication
+  - service-to-service security
+  - media pipelines
+
+I’m not interested in framework tourism.
+I care about how systems behave under load, failure, and bad assumptions.
+
+---
+
+## How I think about engineering
+
+- Abstractions must earn their existence
+- If you can’t explain internals, you don’t own the code
+- Multi-tenant systems expose weak architecture fast
+- Developer experience matters — but correctness comes first
+
+I prefer boring systems that scale over clever ones that don’t.
+
+---
+
+## Things you’ll find in my repositories
+
+- Experiments with **framework internals**
+- Custom **code generators / compilers**
+- Backend infrastructure modules
+- Networking and protocol-level explorations
+- Opinionated architectural patterns
+
+Most repos exist to **learn by building**, not to farm stars.
+
+---
+
+## Currently focused on
+
+- Protocol-level networking (TCP, UDP, QUIC)
+- Rust for systems thinking
+- Pushing backend architecture closer to platform engineering
+
+---
+
+## Outside of GitHub
+
+- 🌐 https://mostafaeffati.com  
+- 💼 LinkedIn: Mostafa Effati  
+
+If something here looks interesting, open an issue or read the code.
